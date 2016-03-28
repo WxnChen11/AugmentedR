@@ -1,7 +1,10 @@
 # AugmentedGeometry
 
+Created by [mshoe](https://github.com/mshoe), [groovy-tunes](https://github.com/groovy-tunes), and [Wxnchen11](https://github.com/WxnChen11). 
 
-3D Vector Function Visualizer. Graph Ellipsoids, parabloids, hyperboloids, and more. Coefficients can be set using the menu sliders, allowing for a large range of functions to be generated. Tools used: Google Cardboard, Unity 5, Vuforia.
+**Awarded 2nd Place Overall at Wearhacks Toronto 2016**
+
+AugmentedGeometry is a 3D Vector Function Visualizer. Graph Ellipsoids, parabloids, hyperboloids, and more. Coefficients can be set using the menu sliders, allowing for a large range of functions to be generated. Tools used: Google Cardboard, Unity 5, Vuforia.
 
 
 Demo Video: Coming Soon.
